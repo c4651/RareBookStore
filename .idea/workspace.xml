@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c9c4329-4913-42fa-ac88-3ab7203ef60a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+    <list default="true" id="8c9c4329-4913-42fa-ac88-3ab7203ef60a" name="Changes" comment="add App.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +43,12 @@
       <option name="presentableId" value="Default" />
       <updated>1686051583282</updated>
     </task>
-    <task id="LOCAL-00001" summary="add README and update gitignore">
-      <created>1686054748304</created>
+    <task id="LOCAL-00001" summary="add App.java">
+      <created>1686055728044</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1686054748304</updated>
+      <updated>1686055728044</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -58,14 +58,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature-a" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add README and update gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add README and update gitignore" />
+    <MESSAGE value="add App.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add App.java" />
   </component>
 </project>
